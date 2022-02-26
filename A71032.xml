@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of the priests and professors and of their nakedness and shame which is coming upon them, from their high profession, to fall as mire in the streets.</title>
+            <author>Simpson, William, 1627?-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71032</idno>
+            <idno type="STC">Wing S3842</idno>
+            <idno type="STC">ESTC R20966</idno>
+            <idno type="EEBO-CITATION">12048869</idno>
+            <idno type="OCLC">ocm 12048869</idno>
+            <idno type="VID">53113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 824:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of the priests and professors and of their nakedness and shame which is coming upon them, from their high profession, to fall as mire in the streets.</title>
+                  <author>Simpson, William, 1627?-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>"Going naked, a sign": p. 7-8.</note>
+                  <note>Signed at end: William Simpson.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Controversial literature.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53113:1" rendition="simple:additions"/>
+            <head>A Diſcovery of the PRIESTS AND PROFESSORS, AND OF Their <hi>Nakedneſs</hi> and <hi>Shame,</hi> which is coming up<g ref="char:EOLhyphen"/>on them, from their High Profeſſion, to fall as <hi>Mire</hi> in the Streets.</head>
+            <div type="part">
+               <p>ALL People fear the Lord, and give glory to his Name; for the hour of his Judgement is come, and he will reward every one according to his work; there will be no hiding-place from the preſence of the Lord: for all who have been ſtriving againſt the <hi>Light</hi> that comes from Chriſt, ſhall with it be confounded; for the wiſdom of the wiſe men will the Lord turn backwards, and all who ſtrive againſt his <hi>Light,</hi> ſhall ſurely fall, and come to nothing.</p>
+               <p>Oh <hi>Prieſts</hi> and <hi>Profeſſors!</hi> Conſider this, the Lord is coming to try you, and to make <hi>manifeſt</hi> your <hi>works;</hi> he will ſift you, and make ma<g ref="char:EOLhyphen"/>nifeſt <hi>your Root</hi> and <hi>Bottom,</hi> which by your deceitful Covers you have hid your ſelves under, and trampled the blood of the Covenant un<g ref="char:EOLhyphen"/>der foot, by your deceitful Merchandize: But now the Lord will ſtrip you of your deceitful Covers, that all that paſſe by when your iniquity and prophaneneſs is laid open, ſhall wonder and be amazed, that ſuch a glorious Profeſſion, ſhould become as a thing of nought, which ſeemed to be very glorious in the eyes of many: But the Lord is riſen <hi>to ſhake all Foundations,</hi> which are not in the life of Righteouſneſs, and <hi>turn</hi> and <hi>overturn,</hi> till he come whoſe Right it is to rule all Nations with a rod of Iron; and he will break the wic<g ref="char:EOLhyphen"/>ked
+<pb n="2" facs="tcp:53113:2"/>in pieces like a Potters Veſſel. This is to you that have pro<g ref="char:EOLhyphen"/>feſſed God in words, but in life and practice have denyed him, and ſtriven againſt his witneſs which the Lord hath placed in you; but now your Hypocriſie and Deceit will be laid open to the ſight of many.</p>
+               <p>The Lord by his ſervants hath warned you long, yea many years, but ye have deſpiſed his Meſſengers, and would have none of his counſel; but like fed Horſes ſnuffing up the ayre, when the ſervants of the Lord did cry unto you to repent: Some you ſent to the Stocks, as the Prieſt cauſed the Prophet in the daies of old; when he ſpake the word of the Lord, <hi>Jer.</hi> 20.2. As it was then, ſo it is now; for theſe many years you have been Haling out of your Synagogues, and cau<g ref="char:EOLhyphen"/>ſing to be whipt, and ſtockt, and impriſoned, the ſervants of the li<g ref="char:EOLhyphen"/>ving God.</p>
+               <p>
+                  <hi>Have not I ſeen your Hypocriſie,</hi> ſaith the Lord? Have you digged deep to hide your Counſel from him that ſearcheth the heart? Nay Verily, you cannot; the Lord will ſearch you, and try you, and bring all your deeds to the <hi>Light.</hi> And as you have done unto others, ſo ſhall it be done unto you, preſſing down, and running over; becauſe you refuſed the counſel of the Lord, the Lord will refuſe and re<g ref="char:EOLhyphen"/>ject you; becauſe the tender proffers of the Lord you have refuſed, and rebelled againſt his <hi>Light,</hi> and hardned your hearts, and ſtiffen<g ref="char:EOLhyphen"/>ed your necks, and would not take his Yoke upon you, which is ea<g ref="char:EOLhyphen"/>ſie, and his Burthen light: This hath been refuſed by you.</p>
+               <p>
+                  <hi>Prieſts</hi> and <hi>Profeſſors,</hi> The Lord will bring a Yoke upon you, which all your wiſdom will not bring you from under; nay your wiſdom the Lord is blaſting, and your profeſſion will wither, and Blackneſs and darkneſs will come over you.</p>
+               <p>You have ſlighted the day of your viſitation, and would have none of his counſel; ſo the Lord hath rejected you: So ſtrive not a<g ref="char:EOLhyphen"/>gainſt the Lord, which hath brought this upon you, <hi>For you have been ſowing to the Wind, and you ſhall reap the Whirl-wind.</hi>
+               </p>
+               <p>
+                  <hi>Prieſts,</hi> This is unto you: As <hi>times</hi> and <hi>ſeaſons</hi> have changed, ſo ye have changed; and the Lord hath ſeen your hypocriſie, and he will reward you according to your works. VVhen times went contrary to your minds, then you preached up VVars and Fightings, that ma<g ref="char:EOLhyphen"/>ny VVidows and fatherleſs children were made to cry out; and many mens lives and Eſtates deſtroyed about Religion, and to ſet<g ref="char:EOLhyphen"/>tle Church-government, as you call it.</p>
+               <pb n="3" facs="tcp:53113:2"/>
+               <p>O <hi>Bluſh,</hi> and <hi>be aſhamed</hi> of your doings! the Church of God is not to be eſtabliſhed <hi>with carnal Sword,</hi> nor <hi>with Wars,</hi> nor <hi>with Fight<g ref="char:EOLhyphen"/>ings,</hi> but <hi>in the Spirit and Power of the living God;</hi> for times and ſea<g ref="char:EOLhyphen"/>ſons are in his hand, and he changeth them as it ſeemeth good in his own eyes, who will change Times and Seaſons when he pleaſeth: For <hi>my wayes</hi> (ſaith the Lord) <hi>is contrary to your wayes.</hi> So lie down in patience, under the mighty hand of God, and ſtrive not againſt him, which will bring down the lofty looks of man, and lay his ho<g ref="char:EOLhyphen"/>nour in the duſt, which will not take counſel at him who made Heaven and Earth, which will be terrible to all unrighteouſ<g ref="char:EOLhyphen"/>neſs. Take heed to your ſelves, preach up Wars and Fightings no more; there hath been too much blood-ſhed about <hi>Religion,</hi> to hold up your <hi>Presbytery,</hi> and <hi>Independency;</hi> but now the Lord ſees your Hy<g ref="char:EOLhyphen"/>pocriſie; for you have cryed down others, and ſet up your ſelves in large Benefits and Augmentations, to keep up your Church; and this hath been done by the Sword, and you are grown proud and wicked, and have ſet up your ſelves and your Religion in high eſteem in the Nations: But hypocriſie and deceit hath lodged amongſt you, and now the Lord will ſift you as Corn in a Sieve, and your hypocriſie ſhall appear to many people, which have looked upon you to be the Miniſters of Chriſt; when your Nakedneſs and Shame comes to be made manifeſt, then they that paſſe by and conſiders your Shame and Nakedneſs, which ſhall ſurely come upon you, how your glori<g ref="char:EOLhyphen"/>ous Profeſſion becomes as a fading Flower, or as the morning Cloud, or as the early Dew, which paſſeth away; ſo will your large Profeſſion fall as <hi>Mire</hi> in the ſtreets.</p>
+               <p>Strive not againſt the Lord in your hypocriſie, neither put it in the minds of people to fight for your <hi>Religion,</hi> as it hath been by ſome of you in years paſt, to the deſtroying of many mens lives; but now the Lord is bringing the ſword of juſtice upon the hypocritical Nations, who have diſſembled with him long; and think not in your hearts that you muſt yet ſtand, and your <hi>Religion;</hi> nay, you muſt ſurely fall, and this Government muſt come over you, which you in your minds have been againſt, which carnal Weapons hath protected: But that is fallen, and think not that you ſhall ſtand; for the Lord hath thrown down the Sword, and the Sword-men which you were pro<g ref="char:EOLhyphen"/>tected by; think not that you ſhall ſtand, for you muſt ſurely come under the ſame Power which they are fallen under; ſtrive not againſt
+<pb n="4" facs="tcp:53113:3"/>the Lord, who is bringing this upon you, as a Rod to correct you; for you have long diſſembled with men, but you cannot diſſemble with the Lord, who ſearcheth the heart, and tryeth the reins; for his Light is riſen, which will diſcover all your waies, and manifeſt your works (which hath been in darkneſs) with his eternal Light, which is now riſen to this very end, that Antichriſt may be made manifeſt in all his appearances; all your Covers will be too narrow, which you have got with the Saints words, but now your life and practice will be made manifeſt to many people.</p>
+               <p>The day is coming upon you that ye ſhall be aſhamed, to make mention of the Name of the Lord, your hypocriſie and ſhame ſhall ſo appear, that your Beds ſhall be too ſhort, that you ſhall not ſtretch your ſelves upon them, and your Coverings too narrow, that you can<g ref="char:EOLhyphen"/>not be hid from the Wrath of the Almighty, which ſhall be as ſtorm and hail; the terrible Wrath of God, which will come upon all the unrighteous, which takes counſel, and not of the Lord; you have ſpurned againſt him, and would have none of his counſel, therefore muſt you bear your own iniquity; and it is the juſt hand of God upon you. And that the Lord is fulfilling upon you, which he did reveal unto me in a <hi>Viſion,</hi> in the ninth Month, 1659. <hi>That the Church of England ſhould be ſtrip'd naked of all her deceitful Covers, and then the tender-hearted people, and the ſober-minded, which looked upon you to be Miniſters of Chriſt, and they had been as ſoft Pillows unto you Teachers to lean upon; but whon they ſhall ſee your Nakedneſs and Shame which will ſurely come upon you, then they will turn away from you, and from your Worſhip; and then none ſhall be left you, but the worſt of people, and they ſhall be as hard Pillows unto you, and then ſhall you fall as</hi> Mire <hi>in the Streets.</hi> This was revealed unto me in a <hi>Viſion,</hi> in the <hi>Spirit</hi> of <hi>Truth,</hi> which <hi>leads into all truth,</hi> &amp; reveals things to come, to thoſe that abide in his counſel, and wait that <hi>his will may be done in earth, as it is in Heaven,</hi> and in his own time he will fulfil that which he reveals unto his ſervants; for thus it was in the dayes of old, the Lord re<g ref="char:EOLhyphen"/>vealed unto his ſervants the Prophets, things that were to come; both in words, and in ſignes; that when thoſe things came to paſs which they declared of, then were they known to be the ſervants of God; and as it was then, ſo it will be now, and the Lord is haſtning the work, that his way may be known, and who are his people, and who are not; and then ſhall deliverance come, when he hath made
+<pb n="5" facs="tcp:53113:3"/>them manifeſt by his Power, who are the Sheep of his Paſture; <hi>Iſrael</hi> ſhall know it, and the <hi>Upright in heart ſhall rejoyce:</hi> But Rebels he will bring to diſtreſs. Oh the mighty work of God, which the Lord he is bringing to paſs by a fooliſh people! and by them he will vex the Nations, that hath rebelled againſt his Light, and will not be coun<g ref="char:EOLhyphen"/>ſelled by it, but runs on in wickedneſs, till your iniquity be found out. Then who ſhall be able to deliver you out of the hands of the living God, which will be terrible to all unrighteouſneſs; for ye have been ſowing to the fleſh, and of the fleſh ye ſhall reap corrup<g ref="char:EOLhyphen"/>tion; for you have been as a fruitful field in ſhew and outſide, but now the Lord is turning it into barranneſs, becauſe of your wicked<g ref="char:EOLhyphen"/>neſs and oppreſſion; as it was in the daies of old, in <hi>Aegypt,</hi> where the Seed of God then ſuffered, ſo you are ſeen to be in ſpiritual <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> where the Seed hath been oppreſt, and the ſpirits of good men kept under, and puniſhed as evil-doers; therefore is your Bloſſom fail'd, and your Bud ſhall be taken away, and your Leaves ſhall fall as in <hi>Autume,</hi> and your Trees ſhall wither, and your Works ſhall be blaſted, and then you ſhall cry, Alas, how is our Bloſſom failed, and our Bud taken away, and Trees withered in one day; which we had Planted and delighted ſo much in, and beſtowed ſo much labour upon them: Thus will your miſery come upon you; You have been as Trees full of leaves, but they are falling off; the Storm from the Al<g ref="char:EOLhyphen"/>mighty wil ſhake you, like as the ſtorm in Winter, till your leaves be ſhaken off, and your bowes be rotten with the fierce Wrath of God, which will ſurely come upon you, like the Fig-tree wch was curſ'd, and dryed up by the roots, &amp; notto bear fruit any more: Thus will your deceitfull Merchandize fall, and as a Milſtone caſt into the Sea, never to riſe again; thus will your calamity come, and none ſhall be able to deliver you from that which the Lord hath deter<g ref="char:EOLhyphen"/>mined to bring upon you; your iniquities hath hid good things from you, ſo you muſt bear the indignation of the Lord, becauſe you have <hi>rejected</hi> his <hi>Counſel,</hi> and made <hi>Fleſh your Arm,</hi> and truſted in the ſhadow of <hi>Aegypt,</hi> and forſaken the living God, and turned into your own <hi>Luſt, Pride,</hi> and <hi>Covetouſneſs,</hi> which have been abominati<g ref="char:EOLhyphen"/>on to him, who is of purer eyes than to <hi>behold iniquity;</hi> and becauſe of your iniquity, you muſt go into <hi>utter Darkneſs,</hi> if you do not ſpee<g ref="char:EOLhyphen"/>dily repent, and ſeek the Lord, that he might repent of the evil that he hath determined againſt you, becauſe of your wickedneſs which
+<pb n="6" facs="tcp:53113:4" rendition="simple:additions"/>you have committed againſt him; ye have covered ſaith the Lord, but not with my Spirit; ye have run, and I have not ſent you; ye have told people that ye were my Miniſters ſaith the Lord, and have de<g ref="char:EOLhyphen"/>ceived the hearts of the ſimple; and through covetouſneſs, and with feigned words, made Merchandize of the people, and ſo are found out of the Doctrine of the Apoſtles, as your fruit hath made you ma<g ref="char:EOLhyphen"/>nifeſt, which will be to your great ſhame and confuſion, for you have told people that you were the Miniſters of Chriſt, and many people believed you; as is was in the daies of the falſe Prophets, ſo is it ſeen in the Light of Chriſt Jeſus to be amongſt the falſe Teachers which is erred from the Spirit, and teacheth people the Letter, and doth not lead to the Spirit, which the Miniſters of Chriſt doth lead to; which leads into all Truth, out of the Error.</p>
+               <p>This was I moved of the Lord, to diſcover and make manifeſt what the Lord hath revealed unto me, as is aforementioned of your <hi>Nakedneſs</hi> and <hi>Shame;</hi> that all ſober people, who deſires to know the Lord, may come to ſee your ſhame, and nakedneſs; that from you they may come to be led by the Spirit of Truth, which leads in<g ref="char:EOLhyphen"/>to all much, which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Prieſts are found out of; for the day makes you manifeſt, and you cannot be hid from the Wrath of the Almigh<g ref="char:EOLhyphen"/>ty; ye have long received Nations, but now the Lord God will ſpare no longer, he will reward every one according to his work; and your ſelf ends the Lord will make manifeſt, and your hypocriſie is made manifeſt in the Light of Chriſt, to all them that walk in it.</p>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:53113:4"/>
+               <head>Going Naked, a <hi>Sign.</hi>
+               </head>
+               <p>OH Church of <hi>England!</hi> This is unto thee, who liveſt in Op<g ref="char:EOLhyphen"/>preſſion and Cruelty, pride and covetouſneſs, a day of miſery is coming upon thee, thy nakedneſs and ſhame is coming upon thee as an armed Man, from which no man can hide thee, neither Hills nor Mountains ſhal be able to hide thee in this the Day of the Lord; neither ſhall the Clefts of the Rocks preſerve thee from the Day of the Lords Controverſie with thee, thy nakedneſs and thy ſhame is near to come upon thee, from it thou ſhalt not fly: Oppreſſion and Cruelty hath been as a Staff for thee, but the Lord is riſen to break thy Staff of Oppreſſion, and thou ſhalt be left naked, though thou haſt ſeemed to be the glory of the Nations with thy deceitful Co<g ref="char:EOLhyphen"/>vers, but now thou ſhalt be left naked, and Nations ſhall be aſha<g ref="char:EOLhyphen"/>med of thee: Howl and weep ye Teachers, for the Lord is gather<g ref="char:EOLhyphen"/>ing his people from you, and ye ſhall devour his flock no more. The Day is coming upon you, that none ſhall buy your Wares any more, ye Merchants of <hi>Babylon:</hi> All your Scarlet colour the Lord our God is coming to take off: Then your nakedneſs ſhall appear to many Nations, and you ſhall ſit as a Widdow, and there ſhall be none to comfort you; Diſtreſs and anguiſh ſhall take hold upon you, and pain as a woman in travel, and is not able to bring forth; ſo ſhall your miſery come upon you: The Decree of the Lord is gone out againſt all unrighteouſneſs, he will ſurely reward every one ac<g ref="char:EOLhyphen"/>cording to their works; for as a Troop of Robbers lye in wait for a Man, ſo a company of Prieſts by conſent lie in wait to murder the innocent Lambs of God, and for their ſakes the Lord is riſen in his mighty Power, to break the bonds of wickedneſs, and to ſet the op<g ref="char:EOLhyphen"/>preſſed free, for the Lord hath heard the groaning of his Seed, and he is riſen to deliver, to bring it out of Captivity, and from under the Task-maſters, where his Seed hath been long oppreſſed by un<g ref="char:EOLhyphen"/>reaſonable Men; But the Lord will ſpare no longer, but he will re<g ref="char:EOLhyphen"/>ward the Oppreſſors double into their Boſoms, and his Seed he will deliver.</p>
+               <p>Oh howl and weep, your Day is far ſpent; Night is coming upon
+<pb n="8" facs="tcp:53113:5" rendition="simple:additions"/>you, that you ſhall not have a Viſion, and nothing ſhall be left to cover you: As naked ſhall you be ſpiritually, as my body hath been temporally naked in many places in <hi>England,</hi> as a ſign of the naked<g ref="char:EOLhyphen"/>neſs and ſhame that is coming upon the Church of <hi>England,</hi> who live in Oppreſſion and Cruelty, and all who lift up a Weapon for her, ſhall fall in the ſhame with her, which will ſurely come to paſs: So all ſober people conſider your waies, and turn to the <hi>Light</hi> which comes from <hi>Jeſus,</hi> that with it you may be gathered unto the Lord, from the falſe Teachers, to the teachings of the Lord; from the falſe worſhips, to the worſhip of the Lord in Spirit and in Truth: For a neceſſity was laid upon me from the Lord God of life &amp; pow<g ref="char:EOLhyphen"/>er to be a ſign: But before I was given up to the thing, it was as death unto me; and I had rather, if it had been the Lords will, have died than gone on in this ſervice; but when the Word of the Lord came unto me, ſaying, Go on and proſper; It was ſweet unto me, as the honey and the honey Comb. And bleſſed ſaith Chriſt, are they that hears my Word, and keeps it.</p>
+            </div>
+            <closer>
+               <signed>WILLIAM SIMPSON.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the ſign of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-mill,</hi> in <hi>Martins Le Grand,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
